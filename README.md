@@ -1,3 +1,11 @@
+// Zahid Afsar
+// 3 - 21 - 24
+// Social Media Recreate
+// With the assets given to you remake the following project Social Media Dashboard
+// Peer Reviewed By :
+// Peer Comment :
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
