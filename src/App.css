@@ -103,7 +103,7 @@ input:checked + .slider:before {
   left: 0%;
   top: 0%;
   position: absolute;
-  height: 30vh;
+  height: 20vh;
   min-width: 100vw;
   background: hsl(232, 19%, 15%);
   border-radius: 0 0 25px 25px;
