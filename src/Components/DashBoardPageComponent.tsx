@@ -69,7 +69,7 @@ function DashBoardPageComponent() {
         </div>
       </div>
 
-      <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 sm:gap-8 gap-6 relative">
+      <div className="grid xl:grid-cols-4 lg:grid-cols-2 md:grid-cols-2 sm:gap-8 gap-6 relative">
         <FollowerTopRowComponent
           SocialMediaCards={SocialMediaCards}
           text1={text1}
