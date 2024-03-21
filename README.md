@@ -2,8 +2,8 @@
 // 3 - 21 - 24
 // Social Media Recreate
 // With the assets given to you remake the following project Social Media Dashboard
-// Peer Reviewed By :
-// Peer Comment :
+// Peer Reviewed By : marcos rodriguez 3/21/2024 2:28pm
+// Peer Comment : small knit pick the bg header behind the header cards is slighty lower on 1440 screen size. it looks like it should be in the middle of the card. same for the mobile size. other than that good job at following the design the colors match, the switch works and you used the correct font. another small knit pick inbetween sizes the cards stack in a 3 col, i suggest to make it a 2 col to make them be in even rows so theres not one card sitting by itself on the bottom. other than that good job!
 
 
 # Getting Started with Create React App
